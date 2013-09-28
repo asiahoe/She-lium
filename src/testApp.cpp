@@ -1,7 +1,7 @@
 #include "testApp.h"
 
-/*changing so i can commit
-/* When I start programming, I try to brainstorm all the values I'll need to keep track of.
+/* I'm changing this line so you can see changes - go team!!
+ When I start programming, I try to brainstorm all the values I'll need to keep track of.
  I make variables to hold each of those values. */
 
 float playerRadius; /* I'll use this for:
