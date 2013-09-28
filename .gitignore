@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 *.swp
 *~.nib
@@ -15,3 +16,6 @@ Documentation/Generated
 doxygenWarnings.txt
 *.xcodeproj/xcuserdata/*.xcuserdatad
 *.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad
+=======
+.DS_Store
+>>>>>>> 831aa420e20bc49f2ac698bf43b1be02ed3369b1
